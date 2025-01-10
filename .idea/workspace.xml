@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec239818-6090-4603-a0b4-56b47dd5accf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonQuizes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate_list_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/int_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort_and_type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_assignment_mutation.py" afterDir="false" />
+    <list default="true" id="ec239818-6090-4603-a0b4-56b47dd5accf" name="Changes" comment="Added the enumerate_list_items.py file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +35,10 @@
   "keyToString": {
     "Python.arithmetic.executor": "Run",
     "Python.enumerate.executor": "Run",
+    "Python.my_universal_functions.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.string.executor": "Run",
+    "Python.swap_function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -69,6 +62,38 @@
       <option name="presentableId" value="Default" />
       <updated>1735766792783</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the enumerate_list_items.py file">
+      <option name="closed" value="true" />
+      <created>1735900037413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735900037413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added the enumerate_list_items.py file">
+      <option name="closed" value="true" />
+      <created>1735900075905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735900075905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the enumerate_list_items.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the enumerate_list_items.py file" />
   </component>
 </project>
