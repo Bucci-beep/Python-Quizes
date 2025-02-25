@@ -63,3 +63,4 @@ inventory["Product 2"] = product_2
 # Print the inventory dictionary
 print(inventory)
 
+
