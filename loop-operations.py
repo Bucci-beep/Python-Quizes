@@ -26,3 +26,15 @@ while i < len(squares):
     i += 1
 print(new_squares)
 
+'''Your little brother has just learned multiplication tables in school.
+Today he has learned tables of 6 and 7. Help him memorise both the tables by printing them using for loop.'''
+
+print("Multiplication Table of 6")
+for i in range(1, 11):
+    print(f"6 * {i} = {6*i}")
+
+print("Multiplication Table of 7")      
+for i in range(1, 11):
+    print(f"7 * {i} = {7*i}")
+
+    
