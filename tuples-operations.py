@@ -43,4 +43,21 @@ print("Element 4, 0 of Tuple: ",   NestedT[4][0])
 print("Element 4, 1 of Tuple: ",   NestedT[4][1])
 
 
-NestedT[2][1][0]
+
+genres_tuple = ("pop", "rock", "soul", "hard rock", "soft rock", \
+                "R&B", "progressive rock", "disco") 
+# Find the length of genres_tuple
+print(len(genres_tuple))
+
+# Access the element, with respect to index 3:
+print(genres_tuple[3])
+
+# Use slicing to obtain indexes 3, 4 and 5:
+print(genres_tuple[3:6])
+
+# Find the first two elements of the tuple genres_tuple:
+print(genres_tuple[0:2])
+
+# Find the index of "disco":
+print(genres_tuple.index("disco"))
+
